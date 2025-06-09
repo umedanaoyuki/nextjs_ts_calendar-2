@@ -1,1 +1,1 @@
-# nextjs_ts_calendar-2
+# Next.js 練習用
